@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^practicemath\.explainit\.online$
+RewriteRule ^/?$ "https\:\/\/www\.explainit\.online\/s\/practicemath\/s1\/math\/questions\/index\.php\ " [R=301,L]
+

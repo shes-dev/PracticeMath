@@ -1,0 +1,107 @@
+	* 
+	{
+		font-family: 'Varela Round', sans-serif;
+		box-sizing:border-box;
+		color:black;
+		font-size:20px;
+	}
+	
+	html
+		{
+			text-align: -webkit-center;
+		}
+		
+	table
+	{
+		width:100%;
+		margin:auto;
+	}
+		
+	#div_table_2,
+	#div_table_3,
+	#div_table_4
+	{
+		margin-top:10px;
+	}
+	
+	input
+	{
+		width:100%;
+		text-align:center;
+		background:transparent;
+		border:none;
+		color:white;
+		/*font-size:initial;*/
+		padding:0px;
+		direction:ltr;
+	}
+	
+	input:focus
+	{
+		outline:none;
+	}
+	
+	input[type=number]::-webkit-inner-spin-button, 
+	input[type=number]::-webkit-outer-spin-button 
+	{ 
+		-webkit-appearance: none; 
+		margin: 0; 
+	}
+	
+	.total
+	{
+		direction:ltr;
+	}
+	
+	#div_1
+	{
+		opacity:0;
+	}
+	
+	.rotate
+	{
+		-moz-transform: rotate(-45deg);                 /*FF*/
+		-o-transform: rotate(-45deg);                   /*Opera*/
+		-webkit-transform: rotate(-45deg);              /*Safari, Chrome*/
+		-ms-transform: rotate(-45deg) !important;       /*IE9*/
+        transform: rotate(-45deg);
+		font-size:10px;		
+	}
+	
+	.rotate_2
+	{
+		-moz-transform: rotate(-90deg);                 /*FF*/
+		-o-transform: rotate(-90deg);                   /*Opera*/
+		-webkit-transform: rotate(-90deg);              /*Safari, Chrome*/
+		-ms-transform: rotate(-90deg) !important;       /*IE9*/
+        transform: rotate(-90deg);
+		font-size:10px;		
+	}
+	
+	#td_1 {
+		background-image: linear-gradient(to top,
+		black 48%,
+		white,
+		black 52%);
+	}
+	
+	.container-div
+	{
+		width:80%;
+		margin:auto;
+	}
+
+@media only screen and (min-width:800px)
+	{
+		html
+		{
+			text-align: -webkit-center;
+		}
+
+		body
+		{
+			background-color:black;
+			padding:10px;
+		}
+	}
+	

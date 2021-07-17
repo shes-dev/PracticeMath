@@ -1,0 +1,36 @@
+[05-Oct-2020 00:11:48 UTC] PHP Warning:  include(../../v/loginAlert.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 8
+[05-Oct-2020 00:11:48 UTC] PHP Warning:  include(): Failed opening '../../v/loginAlert.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 8
+[05-Oct-2020 00:11:48 UTC] PHP Warning:  include(../../v/structure.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 9
+[05-Oct-2020 00:11:48 UTC] PHP Warning:  include(): Failed opening '../../v/structure.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 9
+[05-Oct-2020 00:11:48 UTC] PHP Fatal error:  Uncaught Error: Class 'solutionArray' not found in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/009-012.php:8
+Stack trace:
+#0 /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php(10): include()
+#1 {main}
+  thrown in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/009-012.php on line 8
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(../../v/loginAlert.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 8
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(): Failed opening '../../v/loginAlert.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 8
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(../../v/structure.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 9
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(): Failed opening '../../v/structure.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php on line 9
+[05-Oct-2020 00:15:01 UTC] PHP Fatal error:  Uncaught Error: Class 'solutionArray' not found in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/009-012.php:8
+Stack trace:
+#0 /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_03.php(10): include()
+#1 {main}
+  thrown in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/009-012.php on line 8
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(../../v/loginAlert.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_02.php on line 8
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(): Failed opening '../../v/loginAlert.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_02.php on line 8
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(../../v/structure.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_02.php on line 9
+[05-Oct-2020 00:15:01 UTC] PHP Warning:  include(): Failed opening '../../v/structure.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_02.php on line 9
+[05-Oct-2020 00:15:01 UTC] PHP Fatal error:  Uncaught Error: Class 'solutionArray' not found in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/005-008.php:11
+Stack trace:
+#0 /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_02.php(10): include()
+#1 {main}
+  thrown in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/005-008.php on line 11
+[05-Oct-2020 00:15:02 UTC] PHP Warning:  include(../../v/loginAlert.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_04.php on line 8
+[05-Oct-2020 00:15:02 UTC] PHP Warning:  include(): Failed opening '../../v/loginAlert.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_04.php on line 8
+[05-Oct-2020 00:15:02 UTC] PHP Warning:  include(../../v/structure.php): failed to open stream: No such file or directory in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_04.php on line 9
+[05-Oct-2020 00:15:02 UTC] PHP Warning:  include(): Failed opening '../../v/structure.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_04.php on line 9
+[05-Oct-2020 00:15:02 UTC] PHP Fatal error:  Uncaught Error: Class 'solutionArray' not found in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/012-015.php:10
+Stack trace:
+#0 /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/solution/solution_04.php(10): include()
+#1 {main}
+  thrown in /home/elad189g/public_html/s/practiceit.xyz/s1/math/questions/questionFiles/012-015.php on line 10
